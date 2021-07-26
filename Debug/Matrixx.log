@@ -1,0 +1,8 @@
+﻿  Matrixx.cpp
+C:\Users\$A$A\source\repos\Matrixx\Matrixx\Matrixx.cpp(144,39): warning C4244: аргумент: преобразование "T1" в "size_t", возможна потеря данных
+          with
+          [
+              T1=double
+          ]
+C:\Users\$A$A\source\repos\Matrixx\Matrixx\Matrixx.cpp(207): message : выполняется компиляция ссылки на экземпляр шаблон функции "void CompareAndSwap<double>(Matrix<double> &,size_t)"
+  Matrixx.vcxproj -> C:\Users\$A$A\source\repos\Matrixx\Debug\Matrixx.exe
